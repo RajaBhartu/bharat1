@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    
+}
+.main{
+    width: 100%;
+    height: 20px;
+    background-color: violet;
+    padding: 10px;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    transition: .5s;
+}
+ul li a:hover{
+    color: blue;
+    font-size: 20px;
+    font-weight: 400;
+}
+#course{
+    background-color: violet;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: 400;
+    width: 150px;
+}
+.content{
+    width: 100%;
+    background-color: thistle;
+}
+.head1{
+    padding-top: 40px;
+    color: rgb(230, 78, 230);
+    font-size: 60px;
+}
+.p1{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.btn{
+    margin-top: 40px;
+    padding: 13px 25px;
+    font-size: 25px;
+    font-weight: 600;
+    background-color: rgb(182, 56, 182);
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0px 5px 10px #999;
+    border: none;
+    margin-left: 600px;
+    margin-bottom: 10px;
+}
+.btn:hover{
+    margin-top: 40px;
+    padding: 13px 25px;
+    font-size: 25px;
+    font-weight: 600;
+    background-color: rgb(94, 35, 231);
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0px 5px 10px #999;
+    border: none;
+    margin-bottom: 10px;
+}
+.training{
+    width: 100%;
+    background-color: rgb(133, 30, 133);
+    height: 330px;
+}
+.training1{
+    width: 100%;
+    background-color: rgb(133, 30, 133);
+}
+.head2{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+}
+.td1{
+    background-color: whitesmoke;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.td2{
+    background-color: whitesmoke;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.td3{
+    background-color: whitesmoke;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.about{
+    width: 100%;
+    
+}
+.head3{
+    font-size: 50px;
+    line-height: 100px;
+}
+.head3 span{
+    color: rgb(192, 10, 183);
+}
+.p2{
+    font-size: 20px;
+}
+.line1{
+    width: 50%;
+    color: rgb(168, 15, 161);
+    height: 5px;
+    background-color: rgb(168, 15, 161);
+}
+.mission{
+    width: 100%;
+}
+.img1{
+    width: 500px;
+    height: 500px;
+    background-position: center;
+}
+.head4{
+    font-size: 40px;
+    line-height: 100px;
+}
+.head4 span{
+    color: rgb(168, 15, 161);
+}
+.p3{
+    word-spacing: 2px;
+    font-size: 20px;
+}
+.p4{
+    font-size: 20px;
+}
+
+
+.footer{
+    background-color: rgb(179, 14, 129);
+    color: white;
+    height: 300px;
+}
+.head5{
+    font-size: 40px;
+    line-height: 100px;
+    margin-left: 80px;
+}
+.p5{
+    margin-left: 80px;
+    font: 25px;
+    margin-bottom: 20px;
+}
+.link1{
+    margin-left: 80px;
+}
+.link2{
+    margin-left: 20px;
+    color: white;
+}
+.footer1{
+    background-color: rgb(179, 14, 129);
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
+.footer1 a{
+    color: wheat;
+    text-decoration: none;
+}

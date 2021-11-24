@@ -1,0 +1,23 @@
+body{
+    width: 100%;
+}
+.img2{
+    width: 1340px;
+    height: 300px;
+    margin: auto;
+}
+.img1{
+    width: 425px;
+    height: 400px;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    margin-top: 20px;
+}
+.img3{
+    width: 310px;
+    height: 400px;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
